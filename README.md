@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aurelienporte
 - 👀 I’m interested in Web development & creative coding
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on cool projects
+- 🌱 I’m a frontend developer currently learning svg manipulation and drawing with canvas element
+- 💞️ I’m looking to collaborate on cool projects (html, css / Sass, Js & React)
 - 📫 You can find me on LinkedIn :
 -   https://www.linkedin.com/in/aur%C3%A9lien-port%C3%A9-b7a246281/
 
